@@ -1,0 +1,25 @@
+div.post_header {
+  display: flex;
+  align-items: center;
+}
+
+.post_avatar {
+  width: 40px;
+  height: 40px;
+}
+
+.post_author_and_date {
+  display: flex;
+  margin-left: 10px;
+  flex-direction: column;
+}
+
+.post_author {
+  font-size: 12px;
+  color: #000;
+}
+
+.post_date {
+  font-size: 10px;
+  color: #999;
+}

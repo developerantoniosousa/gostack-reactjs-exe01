@@ -1,0 +1,16 @@
+div.post {
+  background-color: #fff;
+  box-shadow: 0 0 3px #ccc;
+  margin: auto;
+  margin-bottom: 30px;
+  padding: 20px;
+  width: 100%;
+  max-width: 500px;
+}
+
+.post_content {
+  font-size: 14px;
+  justify-content: justify;
+  line-height: 20px;
+  color: #999;
+}
